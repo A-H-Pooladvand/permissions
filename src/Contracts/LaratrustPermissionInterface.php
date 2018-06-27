@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust\Contracts;
+namespace Permissions\Contracts;
 
 /**
  * This file is part of Laratrust,

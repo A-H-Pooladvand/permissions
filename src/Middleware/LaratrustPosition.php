@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust\Middleware;
+namespace Permissions\Middleware;
 
 /**
  * This file is part of Laratrust,

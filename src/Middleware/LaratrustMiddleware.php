@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust\Middleware;
+namespace Permissions\Middleware;
 
 use Illuminate\Support\Str;
 use Illuminate\Support\Collection;

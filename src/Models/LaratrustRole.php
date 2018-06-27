@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust\Models;
+namespace Permissions\Models;
 
 /**
  * This file is part of Laratrust,

@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust;
+namespace Permissions;
 
 use InvalidArgumentException;
 use Illuminate\Support\Facades\Config;

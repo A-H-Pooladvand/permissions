@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust\Traits;
+namespace Permissions\Traits;
 
 /**
  * This file is part of Laratrust,

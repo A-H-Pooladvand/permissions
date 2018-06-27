@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust;
+namespace Permissions;
 
 /**
  * This class is the main entry point of laratrust. Usually this the interaction

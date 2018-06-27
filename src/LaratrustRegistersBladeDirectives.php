@@ -1,6 +1,6 @@
 <?php
 
-namespace Laratrust;
+namespace Permissions;
 
 use Illuminate\Support\Facades\Blade;
 
