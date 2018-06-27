@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Permission\\": "src/"
+            "Permissions\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Permission\\Tests\\": "tests/"
+            "Permissions\\Tests\\": "tests/"
         }
     },
     "config": {
@@ -41,10 +41,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Permission\\LaratrustServiceProvider"
+                "Permissions\\LaratrustServiceProvider"
             ],
             "aliases": {
-                "Permission": "Laratrust\\LaratrustFacade"
+                "Permissions": "Laratrust\\LaratrustFacade"
             }
         }
     }
