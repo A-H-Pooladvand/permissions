@@ -1,12 +1,12 @@
 {
-    "name": "a-h-pooladvand/permission",
+    "name": "amirhossein/permissions",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
     "keywords": ["acl", "authorization", "laravel","laratrust","permissions","php", "rbac","roles", "multiusers", "teams"],
     "license": "MIT",
     "authors": [
         {
             "name": "Amirhossein Pooladvand",
-            "homepage": "http://jahangostarpars.com"
+            "homepage": "https://github.com/A-H-Pooladvand/permissions"
         }
     ],
     "require": {
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Laratrust\\": "src/"
+            "Permission\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Laratrust\\Tests\\": "tests/"
+            "Permission\\Tests\\": "tests/"
         }
     },
     "config": {
@@ -41,10 +41,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Laratrust\\LaratrustServiceProvider"
+                "Permission\\LaratrustServiceProvider"
             ],
             "aliases": {
-                "Laratrust": "Laratrust\\LaratrustFacade"
+                "Permission": "Laratrust\\LaratrustFacade"
             }
         }
     }
