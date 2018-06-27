@@ -1,12 +1,12 @@
 {
-    "name": "santigarcor/laratrust",
+    "name": "a-h-pooladvand/permission",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
     "keywords": ["acl", "authorization", "laravel","laratrust","permissions","php", "rbac","roles", "multiusers", "teams"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Santiago Garcia",
-            "homepage": "http://santigarcor.me"
+            "name": "Amirhossein Pooladvand",
+            "homepage": "jahangostarpars.com"
         }
     ],
     "require": {
